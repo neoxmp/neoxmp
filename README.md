@@ -4,6 +4,8 @@
 
 **IT Infrastructure & Security | System / Network Administration | Field Systems | Software Development**
 
+**Contact:** +90 551 011 20 95 · [WhatsApp](https://wa.me/905510112095) · [neoxmp@gmail.com](mailto:neoxmp@gmail.com) · [LinkedIn](https://www.linkedin.com/in/mustafa-polat-39210988/)
+
 I have 21+ years of hands-on IT experience across system administration, network operations, cybersecurity, virtualization, storage, backup, field devices and user support. I currently work as an IT responsible in a shipyard environment, managing office, production field, server room, security and operational infrastructure.
 
 I focus on practical, field-ready systems: secure networks, reliable monitoring, camera/NVR operations, compliance-aware guest access, LPR/ANPR platforms, RTSP media workflows and AI-assisted automation.
@@ -67,4 +69,4 @@ Centralized guest network and compliance platform concept for corporate captive 
 - LinkedIn: [linkedin.com/in/mustafa-polat-39210988](https://www.linkedin.com/in/mustafa-polat-39210988/)
 - E-mail: [neoxmp@gmail.com](mailto:neoxmp@gmail.com)
 - GSM: +90 551 011 20 95
-
+- WhatsApp: [wa.me/905510112095](https://wa.me/905510112095)

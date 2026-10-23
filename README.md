@@ -21,9 +21,55 @@ I focus on practical, field-ready systems: secure networks, reliable monitoring,
 - **Compliance:** ISO 27001:2022, KVKK, GDPR, cookie management, privacy and compliance integration
 - **Development:** Python, JavaScript, ASP.NET Core, React, TypeScript, Go, WebUI, debugging and AI agent workflows
 
+## Applications & Product Pages
+
+| Application | What it does | Public page |
+| --- | --- | --- |
+| **MP TV** | Android TV/IPTV, VOD, public CCTV and authorized RTSP/ONVIF camera viewing; multi-view layouts | [Product & APK releases](https://github.com/neoxmp/mp-tv-releases) |
+| **LPR System Windows** | License plate recognition, parking management and relay/barrier integration | [Product & Windows installer](https://github.com/neoxmp/lpr-system-windows) |
+| **Timelapse Snapshot Server** | Scheduled IP camera snapshots, timelapse generation and media archiving | [Product & Windows installer](https://github.com/neoxmp/timelapse-windows) |
+| **SIP IP Intercom** | Android SIP/IP intercom application | [Product & demo APK](https://github.com/neoxmp/sip-ip-intercom-demo) |
+| **ADA Rehber** | Central corporate directory, Android client, controlled Excel imports and device management | Private source; demo and deployment by request |
+| **Ada Guest Access & Compliance Platform** | Corporate guest network and compliance architecture | Concept / architecture work |
+
+Product pages describe each application's current scope, distribution and licensing terms. Private source repositories are not required to browse the public product pages.
+
 ## Featured Work
 
-### LPR System v5.1
+### MP TV
+
+Android application for TV/IPTV, VOD and authorized IP camera viewing, including Android TV and TV boxes.
+
+- M3U/M3U8 and Xtream live sources; XMLTV program guide
+- RTSP/ONVIF camera and NVR live viewing
+- Multi-view layouts combining TV and camera sources
+- Shared favorites, remote-control navigation and APK updates
+
+Product and releases: [github.com/neoxmp/mp-tv-releases](https://github.com/neoxmp/mp-tv-releases)
+
+### SIP IP Intercom
+
+Android SIP/IP intercom application with a public product guide, demo APK and pricing information.
+
+Product and demo: [github.com/neoxmp/sip-ip-intercom-demo](https://github.com/neoxmp/sip-ip-intercom-demo)
+
+### ADA Rehber
+
+Corporate contact directory combining a Django WebUI with a Kotlin / Jetpack Compose Android client. Current Android release: **0.7.1 pilot**.
+
+- Controlled HR, IT and e-mail Excel imports with review before publication
+- Server-side roles for administrators, IT, HR and auditors
+- Mobile search, favorites and the last successfully synchronized directory offline
+- Administrator-approved devices and user-approved APK updates
+- Daily phonebook backups with up to 120 days of retention, authorized exports and approved restore workflows
+- Device inventory and permission-based location visibility for authorized operators
+
+Private source repository. Demo, deployment and customization: [neoxmp@gmail.com](mailto:neoxmp@gmail.com?subject=ADA%20Rehber%20Demo).
+
+Background operations depend on Android permissions, battery and network conditions. Google cloud synchronization completion is not verified by the app.
+
+
+### LPR System
 
 Web-based license plate recognition and parking management platform for RTSP/MJPEG camera streams, subscriber/visitor access, black/white list scenarios and relay/barrier integration.
 
@@ -33,7 +79,7 @@ Web-based license plate recognition and parking management platform for RTSP/MJP
 - Windows service, Linux and Docker deployment
 - WebUI for operational management
 
-Repository: [github.com/neoxmp/lpr-system](https://github.com/neoxmp/lpr-system)
+Public product page and Windows installer: [github.com/neoxmp/lpr-system-windows](https://github.com/neoxmp/lpr-system-windows)
 
 ### Timelapse Snapshot Server
 
@@ -45,7 +91,7 @@ RTSP camera snapshot, automatic timelapse video and multi-target media archive s
 - Windows service, ZimaOS, Ubuntu and Docker deployment
 - WebUI for camera, media and target management
 
-Repository: [github.com/neoxmp/Timelapse](https://github.com/neoxmp/Timelapse)
+Public product page and Windows installer: [github.com/neoxmp/timelapse-windows](https://github.com/neoxmp/timelapse-windows)
 
 ### Ada Guest Access & Compliance Platform
 
